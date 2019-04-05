@@ -1,0 +1,608 @@
+#VIKING GPS Data file http://viking.sf.net/
+FILE_VERSION=1
+
+xmpp=1,000000
+ympp=1,000000
+lat=51,884020
+lon=10,484485
+mode=mercator
+color=#cccccc
+highlightcolor=#eea500
+drawscale=t
+drawcentermark=t
+drawhighlight=t
+
+~Layer Map
+name=Default Map
+mode=19
+directory=
+cache_type=1
+mapfile=
+alpha=255
+autodownload=t
+adlonlymissing=f
+mapzoom=0
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Flash
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=<u>Flash</u>
+metadataauthor=
+metadatatime=2018-07-03T21:28:09.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.877743000000002" longitude="10.48307" name="Froschkönig" unixtime="1530653289" description="<u>Flash</u>"
+type="waypoint" latitude="51.87762" longitude="10.482746000000001" name="Plateau" unixtime="1530653339" description="<u>Flash</u>"
+type="waypoint" latitude="51.87762" longitude="10.482601000000001" name="Bugwelle" unixtime="1530653355" description="<u>Flash</u>"
+type="waypoint" latitude="51.877517805333483" longitude="10.481889828033447" name="Ziegenrückenturm" unixtime="1530653485" description="<u>Flash</u>"
+type="waypoint" latitude="51.876249999999999" longitude="10.484213" name="Flash" unixtime="1530653533" description="<u>Flash</u>"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Kaminturm
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=<u>Kaminturm</u>
+metadataauthor=
+metadatatime=2018-07-05T21:45:25.953Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.875126000000002" longitude="10.479367" name="Half Dome" unixtime="1530827125" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.875079999999997" longitude="10.479611999999999" name="Hotzenklotz" unixtime="1530827234" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874737000000003" longitude="10.479543" name="Snoopy" unixtime="1530827305" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874763000000002" longitude="10.479732500000001" name="Tempel" unixtime="1530827383" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874783000000001" longitude="10.479704" name="Zitadelle" unixtime="1530827416" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874817" longitude="10.47972" name="Pult" unixtime="1530827459" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874844000000003" longitude="10.479735" name="Festung" unixtime="1530827605" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874786" longitude="10.48014" name="Ofen" unixtime="1530827612" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874839999999999" longitude="10.4802" name="Altherrenhangel & Kondon Des Grauens" unixtime="1530827695"
+type="waypoint" latitude="51.874783000000001" longitude="10.480242000000001" name="Kaminturm" unixtime="1530827767" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874854999999997" longitude="10.480288" name="Ochsenfrosch" unixtime="1530827841" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874935000000001" longitude="10.480377000000001" name="Kryptonitblock" unixtime="1530827984" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.875186999999997" longitude="10.480197" name="Würger" unixtime="1530828028" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.87518" longitude="10.480283999999999" name="Toblerone" unixtime="1530828129" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.875464999999998" longitude="10.480437999999999" name="Holgis Ei" unixtime="1530828201" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874656999999999" longitude="10.480441000000001" name="Klippan" unixtime="1530828266" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.875190000000003" longitude="10.480880000000001" name="Idealblock" unixtime="1530828304" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874935000000001" longitude="10.481147999999999" name="Watzmann" unixtime="1530828400" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874572999999998" longitude="10.48115" name="Große Reibe" unixtime="1530828446" description="<u>Kaminturm</u>"
+type="waypoint" latitude="51.874389999999998" longitude="10.481449" name="Bollog" unixtime="1530828485" description="<u>Kaminturm</u>"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Tank
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=<u>Tank</u>
+metadataauthor=
+metadatatime=2018-07-03T21:50:59.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.875979999999998" longitude="10.478160000000001" name="Siegrids Socke" unixtime="1530654947" description="<u>Tank</u>"
+type="waypoint" latitude="51.876106" longitude="10.477902" name="Sandokan" unixtime="1530654989" description="<u>Tank</u>"
+type="waypoint" latitude="51.876007000000001" longitude="10.477885000000001" name="Seifenoper" unixtime="1530655031" description="<u>Tank</u>"
+type="waypoint" latitude="51.875782000000001" longitude="10.475828999999999" name="Polyp" unixtime="1530655092" description="<u>Tank</u>"
+type="waypoint" latitude="51.875725000000003" longitude="10.476248999999999" name="Qualle" unixtime="1530655169" description="<u>Tank</u>"
+type="waypoint" latitude="51.875736000000003" longitude="10.476699" name="Opferstock" unixtime="1530655219" description="<u>Tank</u>"
+type="waypoint" latitude="51.875660000000003" longitude="10.477045" name="Tresor" unixtime="1530655270" description="<u>Tank</u>"
+type="waypoint" latitude="51.875579999999999" longitude="10.476955" name="Taka-Tuka Wand" unixtime="1530655309" description="Tank"
+type="waypoint" latitude="51.875552999999996" longitude="10.477027" name="Nachbar" unixtime="1530655430" description="<u>Tank</u>"
+type="waypoint" latitude="51.875430000000001" longitude="10.477503" name="Hänger" unixtime="1530655457" description="<u>Tank</u>"
+type="waypoint" latitude="51.875445999999997" longitude="10.476167" name="Krankenhaus" unixtime="1530655503" description="<u>Tank</u>"
+type="waypoint" latitude="51.874836000000002" longitude="10.478108000000001" name="Aschenbecher" unixtime="1530655556" description="<u>Tank</u>"
+type="waypoint" latitude="51.87471" longitude="10.478175999999999" name="Einsiedler" unixtime="1530655594" description="<u>Tank</u>"
+type="waypoint" latitude="51.876730000000002" longitude="10.477662" name="Träne" unixtime="1530654659" description="<u>Tank</u>"
+type="waypoint" latitude="51.876407999999998" longitude="10.478973" name="Placa Del Toros" unixtime="1530654729" description="<u>Tank</u>"
+type="waypoint" latitude="51.876472" longitude="10.479628999999999" name="Poldi" unixtime="1530654777" description="<u>Tank</u>"
+type="waypoint" latitude="51.876139999999999" longitude="10.479545999999999" name="Fäustel" unixtime="1530654829" description="<u>Tank</u>"
+type="waypoint" latitude="51.875996000000001" longitude="10.478887" name="Hinkelstein" unixtime="1530654869" description="<u>Tank</u>"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Ziegenrücken
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=Ziegenr&#252;cken
+metadataauthor=
+metadatatime=2018-07-03T21:05:33.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.877544" longitude="10.478633" name="Waldunke" unixtime="1530651933" description="Ziegenr&#252;cken"
+type="waypoint" latitude="51.877789999999997" longitude="10.478655" name="Wegweiser" unixtime="1530651961" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878039999999999" longitude="10.478707" name="Michelangelo" unixtime="1530652274" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.877983" longitude="10.478342" name="Herbstwandl" unixtime="1530652299" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878140000000002" longitude="10.478652" name="Pyramide" unixtime="1530652429" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878245999999997" longitude="10.478626" name="Hoher Pfeiler" unixtime="1530652475" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878326000000001" longitude="10.478659" name="Sonntagsblock" unixtime="1530652500" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878234999999997" longitude="10.478859" name="Straußenei" unixtime="1530652570" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.87809" longitude="10.478985" name="Wächterhäuschen" unixtime="1530652621" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.87811" longitude="10.479043000000001" name="Wachturm" unixtime="1530652735" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878210000000003" longitude="10.479047" name="Ziegenarsch" unixtime="1530652752" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878250000000001" longitude="10.4791355" name="Schlösschen" unixtime="1530652810" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878273" longitude="10.479557" name="Blender" unixtime="1530652887" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878245999999997" longitude="10.479585999999999" name="Achterdeck" unixtime="1530652928" description="<u>Ziegenr&#252;cken</u>"
+type="waypoint" latitude="51.878548000000002" longitude="10.480641" name="Löcherwand" unixtime="1530652979" description="<u>Ziegenr&#252;cken</u>"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Steinbrecherweg
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=<u>Steinbrecherweg</u>
+metadataauthor=
+metadatatime=2018-06-29T22:19:18.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.87856" longitude="10.488255000000001" name="Drall" unixtime="1530311039" description="<u>Steinbrecherweg</u>"
+type="waypoint" latitude="51.878520000000002" longitude="10.488224000000001" name="Trockner" unixtime="1530311066" description="<u>Steinbrecherweg</u>"
+type="waypoint" latitude="51.878506000000002" longitude="10.48821" name="Waschmaschiene" unixtime="1530311122" description="<u>Steinbrecherweg</u>"
+type="waypoint" latitude="51.877395999999997" longitude="10.487126" name="Block mit Bank" unixtime="1530311258" description="Steinbrecherweg"
+type="waypoint" latitude="51.877743000000002" longitude="10.489375000000001" name="Schlitzfäustel" unixtime="1530311323" description="<u>Steinbrecherweg</u>"
+type="waypoint" latitude="51.878998000000003" longitude="10.488313" name="Piano" unixtime="1530310758" description="<u>Steinbrecherweg</u>"
+type="waypoint" latitude="51.878613000000001" longitude="10.488184" name="U-Boot" unixtime="1530310796" description="<u>Steinbrecherweg</u>"
+type="waypoint" latitude="51.878548000000002" longitude="10.488196" name="Feldspatkrone" unixtime="1530310955"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Dachsweg
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=Dachsweg
+metadataauthor=
+metadatatime=2018-05-31T22:45:50.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.880237999999999" longitude="10.484693" name="Colani" unixtime="1527806750" description="Dachsweg"
+type="waypoint" latitude="51.880330000000001" longitude="10.486046999999999" name="Schiefe Welt" unixtime="1527806777" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880479999999999" longitude="10.486081" name="Flunder" unixtime="1527806856" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880496999999998" longitude="10.486255999999999" name="Hoan" unixtime="1527806877" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880257" longitude="10.486770999999999" name="Randspitz" unixtime="1527807017" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880339999999997" longitude="10.486744" name="Randmauer" unixtime="1527807072" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880420000000001" longitude="10.486660000000001" name="Stöhnender Block" unixtime="1527807160" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880420000000001" longitude="10.4867325" name="Ägypten" unixtime="1527807222" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880454999999998" longitude="10.486763" name="Dritte Dimension" unixtime="1527807297" description="Dachsweg"
+type="waypoint" latitude="51.880535000000002" longitude="10.486765" name="Panzerechse" unixtime="1527807387" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880446999999997" longitude="10.4865885" name="Knusperturm" unixtime="1530308869" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880600000000001" longitude="10.48668" name="Knusperwand" unixtime="1530309074" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880580000000002" longitude="10.486767" name="Nordkessel" unixtime="1530309116" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880614999999999" longitude="10.486840000000001" name="Nordflanke" unixtime="1530309133" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880634000000001" longitude="10.486769000000001" name="Laptop" unixtime="1530309172" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880569999999999" longitude="10.487014" name="Einzug" unixtime="1530309249" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880516" longitude="10.487012" name="Hohler Spiegel" unixtime="1530309324" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880558000000001" longitude="10.487085" name="Panorama-Quader" unixtime="1530309334" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880375000000001" longitude="10.488270999999999" name="Dreiecksplatte" unixtime="1530309448" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880493000000001" longitude="10.488187999999999" name="Sideboard" unixtime="1530309484" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880543000000003" longitude="10.488379" name="Müllbox" unixtime="1530309524" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880333" longitude="10.488604" name="Eckball" unixtime="1530309589" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880339999999997" longitude="10.488764" name="Mäuerchen" unixtime="1530309630" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880470000000003" longitude="10.488579" name="Buchenklippe" unixtime="1530309728" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880629999999996" longitude="10.488569999999999" name="Grüne Tonne" unixtime="1530309767" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.880572999999998" longitude="10.488757" name="Zwergenburg" unixtime="1530309807" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.881202999999999" longitude="10.486075" name="Grüner Drache" unixtime="1530309902" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.881737000000001" longitude="10.485846" name="Zyklop" unixtime="1530309907" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.881844000000001" longitude="10.487375" name="Smile" unixtime="1530310001" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.88176" longitude="10.487590000000001" name="Frown" unixtime="1530310072" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.88176" longitude="10.487605" name="Cry" unixtime="1530310125" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.881762999999999" longitude="10.487780000000001" name="ScheinBar" unixtime="1530310154" description="<u>Dachsweg</u>"
+type="waypoint" latitude="51.881740000000001" longitude="10.487590000000001" name="Schirmchen" unixtime="1530310227" description="<u>Dachsweg</u>"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Kamelklippen
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=Kamelklippe
+metadataauthor=
+metadatatime=2018-05-31T22:22:42.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.881701999999997" longitude="10.482097" name="Verschüttete Wand" unixtime="1527805362" description="Kamelklippe"
+type="waypoint" latitude="51.881397" longitude="10.481927000000001" name="Paradies" unixtime="1527805419" description="Kamelklippe"
+type="waypoint" latitude="51.880992999999997" longitude="10.482117000000001" name="Hampel" unixtime="1527805436" description="Kamelklippe"
+type="waypoint" latitude="51.880856000000001" longitude="10.482098000000001" name="Hotel Okertal" unixtime="1527805519" description="Kamelklippe"
+type="waypoint" latitude="51.880794999999999" longitude="10.482096" name="Eiger" unixtime="1527805569" description="Kamelklippe"
+type="waypoint" latitude="51.880740000000003" longitude="10.482094" name="Jungfrau" unixtime="1527805621" description="Kamelklippe"
+type="waypoint" latitude="51.880642000000002" longitude="10.482003000000001" name="Zeugnis" unixtime="1527805637" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.881129999999999" longitude="10.483879" name="Tyrannosaurus" unixtime="1527805709" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.880569999999999" longitude="10.483454" name="Hosenträger" unixtime="1527805740" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.880389999999998" longitude="10.483520499999999" name="Hornknopf" unixtime="1527805840" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.880405000000003" longitude="10.483681000000001" name="Pilz" unixtime="1527805926" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.880299999999998" longitude="10.483518" name="Panzer" unixtime="1527805957" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.880012999999998" longitude="10.483392" name="Hörnli" unixtime="1527806027" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.879894" longitude="10.483635" name="Dickes Ei" unixtime="1527806083" description="<u>Kamelklippe</u>"
+type="waypoint" latitude="51.880023999999999" longitude="10.481039000000001" name="Platzhirsch" unixtime="1527806134" description="<u>Kamelklippe</u>"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Psychodach
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=Psychdach
+metadataauthor=
+metadatatime=2018-05-30T22:00:14.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.882534" longitude="10.482429" name="Psychturm" unixtime="1527717912" description="Psychdach"
+type="waypoint" latitude="51.882534" longitude="10.482429" name="Psychoturm" unixtime="1527717957" description="<u>Psychdach</u>"
+type="waypoint" latitude="51.882607" longitude="10.48246" name="Tipi" unixtime="1527717986" description="<u>Psychdach</u>"
+type="waypoint" latitude="51.882027000000001" longitude="10.480494500000001" name="Ensel" unixtime="1527717614" description="Psychdach"
+type="waypoint" latitude="51.882187000000002" longitude="10.480732" name="Krete" unixtime="1527717749" description="Psychdach"
+type="waypoint" latitude="51.882187000000002" longitude="10.480803999999999" name="Laubwolf" unixtime="1527717786" description="Psychdach"
+type="waypoint" latitude="51.882559999999998" longitude="10.482415" name="Psychokeller" unixtime="1527717834" description="Psychdach"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Zwillingsbuche
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=Zwillingsbuche
+metadataauthor=
+metadatatime=2018-05-30T22:12:35.000Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="51.883879999999998" longitude="10.485568000000001" name="Opa Wilhelm" unixtime="1527718450" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883904000000001" longitude="10.4857435" name="Küchenzeile" unixtime="1527718506" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883876999999998" longitude="10.485829000000001" name="Krawendel" unixtime="1527718566" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883965000000003" longitude="10.486007000000001" name="Der Heilige Hein" unixtime="1527718625" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883944999999997" longitude="10.486136" name="Ordnungshüter" unixtime="1527718712" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883986999999998" longitude="10.486167" name="Rettungsboote" unixtime="1527718747" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883986999999998" longitude="10.486153" name="Brücke" unixtime="1527718808" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883969999999998" longitude="10.486326" name="Spitzer Winkel" unixtime="1527718858" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883938000000001" longitude="10.486499999999999" name="Cluster" unixtime="1527718877" description="<u>Zwillingsbuche</u>"
+type="waypoint" latitude="51.883839999999999" longitude="10.482471" name="Monolith" unixtime="1527718355" description="Zwillingsbuche"
+type="waypoint" latitude="51.8842" longitude="10.484213" name="Kumpel" unixtime="1527718402" description="<u>Zwillingsbuche</u>"
+type="waypointlistend"
+~EndLayerData
+~EndLayer
+
